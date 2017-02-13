@@ -1,0 +1,26 @@
+{
+  "name": "redundant-rpc-provider",
+  "version": "1.0.0",
+  "description": "Redundant RPC provider for metamasks eth provider engine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Neufund/redundant-rpc-provider.git"
+  },
+  "keywords": [
+    "ethereum",
+    "metamask",
+    "provider",
+    "rpc",
+    "redundant"
+  ],
+  "author": "Leonid Logvinov <logvinov.leon@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Neufund/redundant-rpc-provider/issues"
+  },
+  "homepage": "https://github.com/Neufund/redundant-rpc-provider#readme"
+}
