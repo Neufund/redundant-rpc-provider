@@ -1,11 +1,11 @@
 {
   "name": "redundant-rpc-provider",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "Redundant RPC provider for metamasks eth provider engine",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "mocha --compilers js:babel-core/register",
-    "build": "babel src/index.js --out-file lib/index.js",
+    "build": "babel src/index.js > lib/index.js",
     "prepublish": "npm run build"
   },
   "repository": {
