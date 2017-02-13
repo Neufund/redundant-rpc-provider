@@ -1,4 +1,4 @@
-# redundant-rpc-provider
+# redundant-rpc-provider [![Build Status](https://travis-ci.org/Neufund/redundant-rpc-provider.svg?branch=master)](https://travis-ci.org/Neufund/redundant-rpc-provider)
 Redundant RPC provider for metamasks eth provider engine
 
 ##What it does?
