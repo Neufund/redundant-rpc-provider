@@ -1,4 +1,6 @@
 # redundant-rpc-provider [![Build Status](https://travis-ci.org/Neufund/redundant-rpc-provider.svg?branch=master)](https://travis-ci.org/Neufund/redundant-rpc-provider)
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/Neufund/redundant-rpc-provider.svg)](https://greenkeeper.io/)
 Redundant RPC provider for metamasks eth provider engine
 
 ##What it does?
